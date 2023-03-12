@@ -14,5 +14,12 @@ Like the Rubber Ducky , we can program it to execute some commands, using the Ar
 ![image](https://user-images.githubusercontent.com/74313566/224560667-99a9cf07-de3c-4daf-8b9e-9ba2dcbbc6f7.png)
 
 <h2> Open The Adruino IDE > Files > Preferences </h2>
+ <br>
+<img src="https://user-images.githubusercontent.com/74313566/224561019-6c843afc-e7d2-40bf-bd9a-44410835aa5c.png">
 <br>
-  ![image](https://user-images.githubusercontent.com/74313566/224560924-f7ec515b-6c9f-4fef-872b-dc6a9452e2c6.png)
+ Paste this link in the Dialog Box , The Link : http://digistump.com/package_digistump_index.json ,  at <b>Additional Boards Manager URLs</b>
+<br>
+<img src="https://user-images.githubusercontent.com/74313566/224561436-b06a48e7-d5a5-40c2-a8cd-dbf2b86eb41c.png">
+<p>
+<br>
+ 
