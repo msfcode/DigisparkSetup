@@ -1,5 +1,7 @@
 # Digispark ATtiny85 Setup
 Here we will learn how to setup the digispark 
+<a href="https://digistump.com/wiki/digispark/tutorials/connecting">Official Site</a> , Ps : Not Secure
+<a href="https://startingelectronics.org/tutorials/arduino/digispark/digispark-windows-setup/">starting electronincs </a>, they talk about setup the digispark
 <p>
 <h1>What is the Digispark ? </h1>
 <br>
