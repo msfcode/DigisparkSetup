@@ -6,6 +6,7 @@ Here we will learn how to setup the digispark
 The Digispark is an <b>ATtiny85</b> based microcontroller development board that come with a USB interface by Digistump.
 <br>
 Like the Rubber Ducky , we can program it to execute some commands, using the Arduino IDE. It's used in the field of Physical Pentesting.
+We will use The C++ . 
 <p>
 <h1>SETUP</h1>
 <b>
